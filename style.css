@@ -6,3 +6,10 @@ img {
     height: 40vh;
     width: 40vh;
 }
+
+@media screen and (min-width: 1000px) {
+    img {
+        height: 40vw;
+        width: 40vw;
+    }
+}
